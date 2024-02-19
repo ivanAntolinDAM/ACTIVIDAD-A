@@ -16,6 +16,8 @@ public class CompartidoGit {
     public static void main(String[] args) {
         System.out.print("Soy maria");
         System.out.println("Soy Ricardo");
+        System.out.println("soy maria de nuuevo");
+             
     }
     
 }
